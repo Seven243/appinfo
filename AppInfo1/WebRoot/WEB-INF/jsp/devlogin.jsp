@@ -42,8 +42,8 @@
               </div>
               <span>${error }</span>
               <div>
-              	<button type="submit" class="btn btn-success" href="index.html">登     录</button>
-              	<button type="reset" class="btn btn-default" href="index.html">重　填</button>
+              	<button type="submit" class="btn btn-success">登     录</button>
+              	<button type="reset" class="btn btn-default">重　填</button>
               </div>
 
               <div class="clearfix"></div>

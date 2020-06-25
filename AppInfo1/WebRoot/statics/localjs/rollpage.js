@@ -1,4 +1,4 @@
-function page_nav(frm,num){ //分页的js
+function page_nav(frm,num){
 		frm.pageIndex.value = num;
 		frm.submit();
 }
